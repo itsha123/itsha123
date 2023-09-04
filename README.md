@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @itsha123
+- 👀 I’m interested in web and app development.
+- 🌱 I’m currently learning PHP.
