@@ -1,4 +1,5 @@
-👋 Hi, I'm Hamid Mossa (aka @itsha123)
+👋 Hi, I'm Hamid Mossa (aka @itsha123)  
+
 I'm a high school developer interested in app development, web development, machine learning, and systems programming.  
 
 Some projects:
@@ -7,5 +8,6 @@ Some projects:
 - SigmaOS: An experimental operating system made with Cosmos: [https://github.com/itsha123/SigmaOS](https://github.com/itsha123/SigmaOS)
 
 Languages:  
-Python • Kotlin • HTML, CSS, JS • SQL
+Python • Kotlin • HTML, CSS, JS • SQL  
+
 Website: https://hamidmossa.me
